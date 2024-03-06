@@ -10,7 +10,13 @@ File: StroopCleanSet.csv
 
 Notes: There is also ML3StroopRaw.csv, which includes the practice trials, but also includes trials with very odd labelling (e.g. 'anagram').
 
-Codebook: None provided. Here's my interpetation:
+## Summary
+
+Stroop as part of 10 experiments, random order within that sequence. It’s a forced choice between three display colours (red, blue, green). The words are also red, blue, green, and all combinations are present, so two-thirds of trials are incongruent and one-third are congruent. There are no neutral trials. 
+
+## Codebook
+
+None provided. Here's my interpetation:
 
 - _block_number_: Always 1.
 - _block_name_: screen colour of word presented on this trial, followed by non-informative stuff.
