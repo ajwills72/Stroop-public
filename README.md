@@ -4,4 +4,4 @@ This repo collects publicly-available data on the Stroop effect. In each case, t
 from a different location, but it's collected here both for backup purposes, and also to provide a
 central, well-documented, collection.
 
-- [Many Labs 3 (N = 3,433)](StroopCleanSet.md)
+- [Many Labs 3 (N = 3,433)](StroopCleanSet.md): A basic 63-trial Stroop task, 1:2 congruent:incongruent.
