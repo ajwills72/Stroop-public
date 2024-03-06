@@ -1,14 +1,11 @@
 # Many Labs 3 (N = 3,433)
 
-Ebersole et al. (2016)
-
-DOI: http://dx.doi.org/10.1016/j.jesp.2015.10.012
-
-Repository: https://osf.io/ct89g/
-
-File: StroopCleanSet.csv
-
-Notes: There is also ML3StroopRaw.csv, which includes the practice trials, but also includes trials with very odd labelling (e.g. 'anagram').
+- Ebersole et al. (2016)
+  - DOI: http://dx.doi.org/10.1016/j.jesp.2015.10.012
+  - Repository: https://osf.io/ct89g/
+    - Data File: StroopCleanSet.csv
+    - Documentation: Many Labs 3 Supplementary Materials.pdf
+    - Note: There is also ML3StroopRaw.csv, which includes the practice trials, but also includes trials with very odd labelling (e.g. 'anagram').
 
 ## Summary
 
@@ -30,6 +27,7 @@ None provided. Here's my interpetation:
 - _trial_response_: The response of the participant on this trial, indicating screen colour of word presented on this trial.
 - _trial_latency_: Response time in milliseconds
 - _trial_error_: 1 = Correct, 0 = Error.
+- _session_id_: Unique participant ID, potentially links to other files in repo.
 - _trial_word_: The response key pressed by the participant.
 - _congruent_: Is this a Congruent, or Incongruent, trial?
 
