@@ -1,9 +1,11 @@
 # Many Labs 3 (N = 3,433)
 
+_File_: ml3.rda
+
 - Ebersole et al. (2016)
   - DOI: http://dx.doi.org/10.1016/j.jesp.2015.10.012
   - Repository: https://osf.io/ct89g/
-    - Data File: StroopCleanSet.csv
+    - Original Data File: StroopCleanSet.csv
     - Documentation: Many Labs 3 Supplementary Materials.pdf
     - Note: There is also ML3StroopRaw.csv, which includes the practice trials, but also includes trials with very odd labelling (e.g. 'anagram').
 
